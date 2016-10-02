@@ -17,6 +17,7 @@ I firmly believe that we will eventually build Artificial Super Intelligence (AS
 <iframe src="https://embed.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it" width="640" height="360" align="center" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 Check out these articles/book, especially the ones by Tim Urban:
+
 - [The AI Revolution: The Road to Superintelligence][tim-ai-part-1]
 - [The AI Revolution: Our Immortality or Extinction][tim-ai-part-2]
 - [Superintelligence: Paths, Dangers, Strategies][bostrom-superintelligence]
