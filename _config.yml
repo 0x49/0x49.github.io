@@ -5,7 +5,7 @@ description: >
   personal artficial intelligence.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://sighup.xyz" # the base hostname & protocol for your site
+url: "https://sighup.xyz" # the base hostname & protocol for your site
 
 author:
   fullname: "0x49"
