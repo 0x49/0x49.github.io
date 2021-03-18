@@ -1,3 +1,3 @@
-# 0x49 GitHub page
+# Source for ducnguyen.blog
 
-GitHub page for 0x49
+Source for my blog
