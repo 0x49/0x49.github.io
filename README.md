@@ -1,3 +1,1 @@
-# Source for ducnguyen.blog
-
-Source for my blog
+Source for https://ducnguyen.blog
